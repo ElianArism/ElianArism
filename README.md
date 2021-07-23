@@ -3,7 +3,7 @@
 ## I am a Student and Developer.
 ## 📫 Find me on:
 <p> 
- <a href="https://linkedin.com/in/ElianArism" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40" style="vertical-align:top; "></a>
+ <a href="https://www.linkedin.com/in/elian-arismendi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40" style="vertical-align:top; "></a>
  <a href="mailto:elianarism@gmail.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
