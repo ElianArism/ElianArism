@@ -1,6 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+### I am a Student and Developer.
 
-## I am a Student and Developer.
+
 ## 📫 Find me on:
 <p> 
  <a href="https://www.linkedin.com/in/elian-arismendi/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="40" style="vertical-align:top; "></a>
