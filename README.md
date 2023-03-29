@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elian</h1>
 <h3 align="center">A student and software developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elianarism" alt="elianarism" /></a> </p>
-
 - 🔭 I’m currently working on [Indelve](https://indelve.com/)
 
 - 🌱 I’m currently learning **Amazon web services and mastering React.js**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elianarism&show_icons=true&locale=en" alt="elianarism" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elianarism&" alt="elianarism" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elianarism" alt="elianarism" /></a> </p>
