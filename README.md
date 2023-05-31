@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon web services and mastering React.js**
 
-- 💬 Ask me about **Angular, Javascript, Typescript, Vue or React**
+- 💬 Ask me about **Node.js, Nest.js, Angular, Javascript, Typescript, Vue or React**
 
 - 📫 How to reach me **elianarism@gmail.com**
 
