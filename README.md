@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elian</h1>
 <h3 align="center">A student and software developer</h3>
 
-- 🔭 I’m currently working on [Indelve](https://indelve.com/)
+- 🔭 I’m currently working on [Epidata](https://epidata.net/es/) for [Naranja X](https://www.naranjax.com/) 
 
-- 🌱 I’m currently learning **Amazon web services and mastering React.js**
+- 🌱 I’m currently learning **IaC with Serverless and AWS, also I'm mastering React.js**
 
-- 💬 Ask me about **Node.js, Nest.js, Angular, Javascript, Typescript, Vue or React**
+- 💬 Ask me about **Node.js, Nest.js, AWS, Angular, Javascript, Typescript, Vue or React**
 
 - 📫 How to reach me **elianarism@gmail.com**
 
