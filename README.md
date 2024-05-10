@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elian</h1>
 <h3 align="center">A student and software developer</h3>
 
-- 🔭 I’m currently working on [Epidata](https://epidata.net/es/) for [Naranja X](https://www.naranjax.com/) 
+- 🔭 I’m currently working on [Naranja X](https://www.naranjax.com/) 
 
 - 🌱 I’m currently learning **IaC with Serverless and AWS, also I'm mastering React.js**
 
